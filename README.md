@@ -36,6 +36,14 @@ While the full system isn't available, here are some screenshots showcasing the 
 
 **Note**: I cannot provide a live demo link due to sensitive information and proprietary business logic contained in the system.
 
+### Home Page
+![Home Page](public/screenshots/Home.png)
+*Main home page with system overview*
+
+### Registration Interface
+![Registration Interface](public/screenshots/registration.png)
+*Alternative registration interface view*
+
 ### Application Dashboard
 ![Application Dashboard](public/screenshots/candidate-profile.png)
 *Comprehensive applicant management interface*
@@ -60,13 +68,8 @@ While the full system isn't available, here are some screenshots showcasing the 
 ![Grading Algorithms](public/screenshots/Grade-Algorithms.png)
 *Advanced algorithm configuration for applicant evaluation*
 
-### Home Page
-![Home Page](public/screenshots/Home.png)
-*Main home page with system overview*
 
-### Additional Registration Interface
-![Registration Interface](public/screenshots/registration.png)
-*Alternative registration interface view*
+
 
 ### Sales Reporting Page
 ![Sales Reporting](public/screenshots/sales-page.png)
