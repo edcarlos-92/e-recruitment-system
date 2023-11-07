@@ -102,7 +102,7 @@ While the full system isn't available, here are some screenshots showcasing the 
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/edcarlos-92/e-recruitment-system.git
 cd e-recruitment-system
 ```
 
@@ -242,8 +242,6 @@ This repository is licensed under the MIT License for the included components. T
 
 For questions about:
 - **Included Components**: Create an issue in this repository
-- **Full System**: Contact me for commercial support
-- **Licensing**: Reach out for business inquiries
 
 ---
 
